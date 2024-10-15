@@ -9,8 +9,7 @@ Este projeto foi desenvolvido no Tableau para analisar o desempenho de vendas de
 
 Você pode visualizar e interagir com o projeto diretamente através do Tableau Public, no link abaixo:
 
-**[Visualizar Análise de Vendas por Categoria, Sub-Categoria e Produto]([https://public.tableau.com/app/profile/vitor.muniz/viz/shared/462Q8SRZ5](https://public.tableau.com/views/VendasCategoriaSub-CategoriaeProduto/VendasCategoriaSub-CategoriaeProduto?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
-
+**[Visualizar Análise de Vendas por Categoria, Sub-Categoria e Produto](https://public.tableau.com/app/profile/vitor.muniz/viz/VendasCategoriaSub-CategoriaeProduto/VendasCategoriaSub-CategoriaeProduto)**
 
 ## Estrutura do Projeto
 
