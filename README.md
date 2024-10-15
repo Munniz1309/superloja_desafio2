@@ -4,6 +4,14 @@
 
 Este projeto foi desenvolvido no Tableau para analisar o desempenho de vendas de uma loja de varejo, utilizando a base de dados **Exemplo-Superloja.xlsx**. O objetivo é explorar as vendas por **categoria**, **subcategoria** e **produto**, permitindo uma visualização clara das tendências de vendas, lucros e insights estratégicos. A análise é voltada para otimizar as operações de vendas, melhorar o planejamento e maximizar o desempenho de vendas.
 
+
+### Acesse o projeto online:
+
+Você pode visualizar e interagir com o projeto diretamente através do Tableau Public, no link abaixo:
+
+**[Visualizar Análise de Vendas por Categoria, Sub-Categoria e Produto]([https://public.tableau.com/app/profile/vitor.muniz/viz/shared/462Q8SRZ5](https://public.tableau.com/views/VendasCategoriaSub-CategoriaeProduto/VendasCategoriaSub-CategoriaeProduto?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+
+
 ## Estrutura do Projeto
 
 O projeto é composto por vários dashboards interativos que detalham diferentes aspectos das vendas da loja, como:
